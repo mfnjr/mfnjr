@@ -30,3 +30,4 @@ Também estou com aprendizado em andamento em HTML e SQL.
 No momento, estou desenvolvendo dois softwares em Python. Novidades em breve aqui no meu perfil.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mfnjr&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mfnjr/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mfnjr&repo=sistema-bancario-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mfnjr/sistema-bancario-dio)
